@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 2
 __weak typeof(self)weakSelf = self;
 
-__weak typeof(self) weak_self = self;
-__strong typeof(weak_self) strong_self = weak_self;
+__weak typeof(self) weakSelf = self;
+__strong typeof(weakSelf) strong_self = weak_self;
