@@ -1,7 +1,7 @@
 // basic property
 // just a normal property
 //
-// IDECodeSnippetCompletionPrefix: propnonatomstrong
+// IDECodeSnippetCompletionPrefix: @prop
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 26E7F814-55BA-4D8E-9B0D-5CB35DC1A815
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
