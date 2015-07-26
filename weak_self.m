@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-__weak typeof(self)weakSelf = self;
+
 
 __weak typeof(self) weakSelf = self;
-__strong typeof(weakSelf) strong_self = weak_self;
+__strong typeof(weakSelf) stronSelf = weak_self;
