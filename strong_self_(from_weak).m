@@ -1,5 +1,5 @@
 // strong self (from weak)
-// 
+// strong of weak self
 //
 // IDECodeSnippetCompletionPrefix: strongSelf
 // IDECodeSnippetCompletionScopes: [CodeBlock]
