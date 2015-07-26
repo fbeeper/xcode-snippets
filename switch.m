@@ -7,7 +7,8 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-switch (<#expression#>) {
+switch (<#expression#>) 
+{
   case <#constant#>:
     <#statements#>
     break;
