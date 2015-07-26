@@ -11,6 +11,6 @@ dispatch_async(dispatch_get_global_queue(<#dispatch_queue_priority_t priority#>,
         <#code to execute asyncronously#>
 
         dispatch_async(dispatch_get_main_queue(), ^(void) {
-            code to execute syncronously
+            <#code to execute syncronously#>
         });
     });
