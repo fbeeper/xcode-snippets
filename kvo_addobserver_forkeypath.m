@@ -11,3 +11,5 @@
                     forKeyPath:@"<#keypath#>"
                        options:0
                        context:NULL];
+ [<#object#> removeObserver:<#observer#>
+                 forKeyPath:@"<#keypath#>"];
