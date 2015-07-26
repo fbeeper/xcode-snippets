@@ -8,8 +8,8 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 [<#object#> addObserver:<#observer#>
-                    forKeyPath:@"<#keypath#>"
-                       options:0
-                       context:NULL];
- [<#object#> removeObserver:<#observer#>
-                 forKeyPath:@"<#keypath#>"];
+              forKeyPath:@"<#keypath#>"
+                 options:0
+                 context:NULL];
+[<#object#> removeObserver:<#observer#>
+                forKeyPath:@"<#keypath#>"];
