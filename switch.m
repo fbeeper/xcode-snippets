@@ -1,4 +1,4 @@
-// switch
+// Switch (custom snippet)
 // Switch statement
 //
 // IDECodeSnippetCompletionPrefix: switch
