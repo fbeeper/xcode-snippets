@@ -1,4 +1,4 @@
-// weak self
+// weak self (custom snippet)
 // Weak self reference
 //
 // IDECodeSnippetCompletionPrefix: weakSelf
