@@ -1,4 +1,4 @@
-// test
+// test (custom snippet)
 // Test method
 //
 // IDECodeSnippetCompletionPrefix: test
