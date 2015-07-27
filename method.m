@@ -1,4 +1,4 @@
-// method
+// method (custom snippet)
 // 
 //
 // IDECodeSnippetCompletionPrefix: - 
