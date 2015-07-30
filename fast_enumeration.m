@@ -1,4 +1,4 @@
-// fast enumeration
+// fast enumeration (custom snippet)
 // Fast enumeration
 //
 // IDECodeSnippetCompletionPrefix: forin
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-for (<#type *object#> in <#collection#>) {
+for (<#type *object#> in <#collection#>) 
+{
     <#statements#>
 }
