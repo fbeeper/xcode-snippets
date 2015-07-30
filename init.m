@@ -1,4 +1,4 @@
-// init
+// init (custom snippet)
 // Initialization method
 //
 // IDECodeSnippetCompletionPrefix: init
