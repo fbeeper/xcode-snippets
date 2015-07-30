@@ -41,7 +41,7 @@
 
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
-    switch (section) 
+    switch (section)
     {
         case 0:
             return <#title for first header#>;
@@ -53,7 +53,8 @@
     return <#default title#>;
 }
 
-- (NSString *)tableView:(UITableView *)tableView titleForFooterInSection:(NSInteger)section {
+- (NSString *)tableView:(UITableView *)tableView titleForFooterInSection:(NSInteger)section 
+{
     switch (section) {
         case 0:
             return <#title for first footer#>;
