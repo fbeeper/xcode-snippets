@@ -9,13 +9,16 @@
 // IDECodeSnippetVersion: 2
 #pragma mark - UITableViewDataSource
 
-- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
+{
     return <#number of sections#>;
 }
 
-- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
 
-    switch (section) {
+    switch (section) 
+    {
         case 0:
             return <#number of rows#>;
             break;
