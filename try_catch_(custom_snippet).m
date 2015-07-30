@@ -8,9 +8,9 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 @try
-    {
-        <#statements#>
-    }
+{
+    <#statements#>
+}
     @catch (<#NSException *exception#>)
     {
         <#statements#>
