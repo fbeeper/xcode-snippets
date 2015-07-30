@@ -1,4 +1,4 @@
-// protocol
+// protocol (custom snippet)
 // Procol definition
 //
 // IDECodeSnippetCompletionPrefix: @protocol
@@ -8,6 +8,8 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 @protocol <#protocol name#> <NSObject>
+
 @optional
 <#methods#>
+
 @end
