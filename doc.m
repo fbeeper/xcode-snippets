@@ -1,4 +1,4 @@
-// doc
+// doc (custom snippet)
 // Appledoc documenation format
 //
 // IDECodeSnippetCompletionPrefix: doc
@@ -7,9 +7,12 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-/** <#short description#>
+/** 
+ * <#short description#>
+ * 
  * @param <#param#> <#parameter description#>
  * @return <#return description#>
+ * 
  * @exception <#exception#> <#exception description#>
  * @discussion <#discussion#>
- */
+ **/
