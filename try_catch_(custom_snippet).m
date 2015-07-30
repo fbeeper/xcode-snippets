@@ -11,7 +11,7 @@
 {
     <#statements#>
 }
-    @catch (<#NSException *exception#>)
-    {
-        <#statements#>
-    }
+@catch (<#NSException *exception#>)
+{
+    <#statements#>
+}
