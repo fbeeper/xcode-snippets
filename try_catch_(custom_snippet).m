@@ -1,5 +1,5 @@
 // try catch (custom snippet)
-// catch exceptions 
+// catch exceptions
 //
 // IDECodeSnippetCompletionPrefix: @try
 // IDECodeSnippetCompletionScopes: [CodeBlock]
