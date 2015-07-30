@@ -1,4 +1,4 @@
-// dispatch_async
+// dispatch_async (custom snippet)
 // Dispatch to do work in the background, and then to the main queue with the results
 //
 // IDECodeSnippetCompletionPrefix: dispatch_async
