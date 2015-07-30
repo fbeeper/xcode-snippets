@@ -1,4 +1,4 @@
-// kvo observeValueForKeyPath
+// kvo observeValueForKeyPath (custom snippet)
 // Key-value observing
 //
 // IDECodeSnippetCompletionPrefix: observeValueForKeyPath
