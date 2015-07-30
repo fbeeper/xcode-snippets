@@ -55,7 +55,7 @@
 
 - (NSString *)tableView:(UITableView *)tableView titleForFooterInSection:(NSInteger)section
 {
-    switch (section) 
+    switch (section)
     {
         case 0:
             return <#title for first footer#>;
@@ -67,7 +67,8 @@
     return <#default title#>;
 }
 
-- (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath {
+- (BOOL)tableView:(UITableView *)tableView canEditRowAtIndexPath:(NSIndexPath *)indexPath 
+{
     return YES;
 }
 
