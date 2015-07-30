@@ -1,5 +1,5 @@
 // init (custom snippet)
-// Initialization method
+// Initialization method (custom snippet)
 //
 // IDECodeSnippetCompletionPrefix: init
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
