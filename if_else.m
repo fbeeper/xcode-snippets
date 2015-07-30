@@ -1,4 +1,4 @@
-// if else
+// if else (custom snippet)
 // If-else statement
 //
 // IDECodeSnippetCompletionPrefix: ifelse
@@ -7,8 +7,11 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-if (<#condition#>) {
+if (<#condition#>)
+{
   <#statements-if-true#>
-} else {
+} 
+else
+{
   <#statements-if-false#>
 }
