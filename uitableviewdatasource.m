@@ -39,9 +39,10 @@
     return cell;
 }
 
-- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section 
+- (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
-    switch (section) {
+    switch (section) 
+    {
         case 0:
             return <#title for first header#>;
             break;
