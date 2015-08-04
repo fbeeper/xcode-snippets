@@ -1,5 +1,5 @@
 // if else (custom snippet)
-// If-else statement
+// lazy?
 //
 // IDECodeSnippetCompletionPrefix: ifelse
 // IDECodeSnippetCompletionScopes: [CodeBlock]
