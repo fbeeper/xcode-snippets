@@ -2,7 +2,7 @@
 // preprocessor macro to run different code on simulator and device
 //
 // IDECodeSnippetCompletionPrefix: simulator
-// IDECodeSnippetCompletionScopes: [TopLevel]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: A848CD87-F9FD-4C36-ADBC-60B5A1AEE981
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
