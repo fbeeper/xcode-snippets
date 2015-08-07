@@ -8,9 +8,9 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 NSString *title = NSLocalizedString(@"<#title#>",
-                                          @"alert message");
+                                          @"alert title");
     NSString *message = NSLocalizedString(@"<#title#>",
-                                        @"alert title");
+                                        @"alert message");
 
     UIAlertController *alertController =
     [UIAlertController alertControllerWithTitle:title
