@@ -1,6 +1,7 @@
 // Alert With UIAlertController (custom snippet)
-// 
+// lazy?
 //
+// IDECodeSnippetCompletionPrefix: UIAlertController
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 9128B459-C4C1-43CF-AA90-2956682A1A78
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
