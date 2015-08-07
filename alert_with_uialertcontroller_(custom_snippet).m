@@ -7,9 +7,9 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-NSString *message = NSLocalizedString(@"<#title#>",
+NSString *title = NSLocalizedString(@"<#title#>",
                                           @"alert message");
-    NSString *title = NSLocalizedString(@"<#title#>",
+    NSString *message = NSLocalizedString(@"<#title#>",
                                         @"alert title");
 
     UIAlertController *alertController =
