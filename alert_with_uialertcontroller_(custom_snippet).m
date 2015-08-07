@@ -7,7 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
-NSString *message = NSLocalizedString(@"<#>",
+NSString *message = NSLocalizedString(@"<#title#>",
                                           @"alert message");
     NSString *title = NSLocalizedString(@"<#title#>",
                                         @"alert title");
